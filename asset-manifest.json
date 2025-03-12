@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/csestuden.github.io/NewsChimp/static/css/main.a3378620.css",
+    "main.js": "/csestuden.github.io/NewsChimp/static/js/main.e8ba2e1e.js",
+    "static/js/453.fc054035.chunk.js": "/csestuden.github.io/NewsChimp/static/js/453.fc054035.chunk.js",
+    "index.html": "/csestuden.github.io/NewsChimp/index.html",
+    "main.a3378620.css.map": "/csestuden.github.io/NewsChimp/static/css/main.a3378620.css.map",
+    "main.e8ba2e1e.js.map": "/csestuden.github.io/NewsChimp/static/js/main.e8ba2e1e.js.map",
+    "453.fc054035.chunk.js.map": "/csestuden.github.io/NewsChimp/static/js/453.fc054035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3378620.css",
+    "static/js/main.e8ba2e1e.js"
+  ]
+}
